@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Gurshaan-singh
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...BCA
-- 📫 How to reach me ...
+- 📫 How to reach me ...Gmail-singhgurshaan682@gmail.com
+-                       Instagram-gurshaan_8
+-                       Twitter-Gurshaan_08    
 - 
 <!---
 Gurshaan-singh/Gurshaan-singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
