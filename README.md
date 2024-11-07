@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gurshaan-singh
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...BCA
+- 👀 I’m interested in ...learning new technologies
+- 🌱 I’m currently learning ...Python
 - 📫 How to reach me ...Gmail-singhgurshaan682@gmail.com
 -                       Instagram-gurshaan_8
 -                       Twitter-Gurshaan_08    
